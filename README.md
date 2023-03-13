@@ -1,5 +1,5 @@
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
-- A Java Web Developement Project
+- A practice document
 - **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
 <!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
 - User Login Credentials: (shashi/shashi)
